@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Engineer and IT Specialist with a strong background in cybersecurity, blockchain development, and IT infrastructure management.
 
 - 🌍 I'm based in Athens, Greece
-- 🏢 Currently working at [Zelcore Technologies Inc.](https://www.zelcore.io)
+- 🏢 Currently working at [Zelcore Technologies Inc.](https://www.linkedin.com/company/zelcore-technologies-inc)
 - 🎓 Holding an MSc in Digital Systems Security and an MSc in Information Systems
 - 📧 Reach me at: bmg.stultusmundi@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/vasileios-magkoutis-b06828a5)
@@ -30,7 +30,7 @@ I'm a passionate Full Stack Engineer and IT Specialist with a strong background 
 ## 👨‍💻 Projects
 Here are a few highlights of my work:
 
-- [Zelcore Wallet](https://www.zelcore.io) - A comprehensive multi-asset wallet supporting multiple blockchains.
+- [Zelcore Wallet](https://zelcore.io) - A comprehensive multi-asset wallet supporting multiple blockchains.
 - **HackTheBox** - Check out my profile on [HackTheBox](https://app.hackthebox.eu/profile/761).
 
 ## 📈 GitHub Stats
