@@ -12,7 +12,7 @@ I'm a passionate Full Stack Engineer and IT Specialist with a strong background 
 ## 🛠️ Skills
 
 ### Programming Languages
-- **Proficient**: JavaScript/TypeScript, Python, Bash
+- **Proficient**: TypeScript/JavaScript, Python, Bash
 - **Developing**: Solidity, Rust, Go, C/C++
 
 ### Technologies & Tools
