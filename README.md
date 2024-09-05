@@ -44,7 +44,7 @@ Here are a few highlights of my work:
 - **LinkedIn**: [Vasileios Magkoutis](https://linkedin.com/in/vasileios-magkoutis-b06828a5)
 
 ## ⚡ Fun fact
-When I'm not coding, you'll find me exploring the latest Cryptocurrency trends, tinkering with IoT devices, or reading books.
+When I'm not coding, you'll find me exploring the latest Cryptocurrency trends, playing Tennis, or reading books.
 
 ---
 
