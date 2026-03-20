@@ -49,7 +49,10 @@ ISO 27001, Cryptography, OSCP, NATO Secret Communications
 AI-driven development workflows, Rust, Go, and Ethereum smart contract security research.
 
 ## 📈 GitHub Stats
-![Vasileios' GitHub stats](https://github-readme-stats-bbs-one.vercel.app/api?username=stultusmundi&show_icons=true&theme=radical&include_all_commits=true)
+
+![Vasileios' GitHub stats](https://github-readme-stats-bbs-one.vercel.app/api?username=stultusmundi&show_icons=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats-bbs-one.vercel.app/api/top-langs/?username=stultusmundi&layout=compact&theme=radical&langs_count=10)
 
 ## 🏆 Certifications
 - **Offensive Security Certified Professional (OSCP)** — [OS-101-047255](https://www.credly.com/badges/8a93d21a-5ac1-455b-92b2-9d287b1748eb)
